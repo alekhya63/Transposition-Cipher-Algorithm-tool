@@ -1,0 +1,14 @@
+C:\Users\alekh\source\repos\Trans_Cipher\Trans_Cipher\obj\Debug\Trans_Cipher.cipherwork.resources
+C:\Users\alekh\source\repos\Trans_Cipher\Trans_Cipher\obj\Debug\Trans_Cipher.contactus.resources
+C:\Users\alekh\source\repos\Trans_Cipher\Trans_Cipher\obj\Debug\Trans_Cipher.TranspositionCipher.resources
+C:\Users\alekh\source\repos\Trans_Cipher\Trans_Cipher\obj\Debug\Trans_Cipher.intor.resources
+C:\Users\alekh\source\repos\Trans_Cipher\Trans_Cipher\obj\Debug\Trans_Cipher.Pratise.resources
+C:\Users\alekh\source\repos\Trans_Cipher\Trans_Cipher\obj\Debug\Trans_Cipher.Properties.Resources.resources
+C:\Users\alekh\source\repos\Trans_Cipher\Trans_Cipher\obj\Debug\Trans_Cipher.tutorial.resources
+C:\Users\alekh\source\repos\Trans_Cipher\Trans_Cipher\obj\Debug\Trans_Cipher.csproj.GenerateResource.cache
+C:\Users\alekh\source\repos\Trans_Cipher\Trans_Cipher\obj\Debug\Trans_Cipher.csproj.CoreCompileInputs.cache
+C:\Users\alekh\source\repos\Trans_Cipher\Trans_Cipher\bin\Debug\Trans_Cipher.exe.config
+C:\Users\alekh\source\repos\Trans_Cipher\Trans_Cipher\bin\Debug\Trans_Cipher.exe
+C:\Users\alekh\source\repos\Trans_Cipher\Trans_Cipher\bin\Debug\Trans_Cipher.pdb
+C:\Users\alekh\source\repos\Trans_Cipher\Trans_Cipher\obj\Debug\Trans_Cipher.exe
+C:\Users\alekh\source\repos\Trans_Cipher\Trans_Cipher\obj\Debug\Trans_Cipher.pdb
